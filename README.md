@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amruthkciby
 - 👀 I’m interested in computers 
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ->amruthkciby@gmail.com
 
